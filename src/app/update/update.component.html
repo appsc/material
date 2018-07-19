@@ -1,0 +1,22 @@
+<app-adminnav></app-adminnav>
+<app-sidebar></app-sidebar>
+<div class="main col-xs-12">
+  <h2 class="text-center">UPDATE</h2>
+<form id="formAddTeam" name="formAddTeam" #newTeam = "ngForm" (ngSubmit)= "addTeam(newTeam.value)" class="container">
+  <label class="col-sm-3 pr-4 text-right">Name: </label>
+  <input type="text" name="name" id="name" class="col-sm-9" placeholder="UserName" ngModel />
+  <br/>
+  <label class="col-sm-3 pr-4 text-right">Image: </label>
+  <input type="text" name="image" id="image" class="col-sm-9" placeholder="UserImage" ngModel />
+  <br/>
+  <label class="col-sm-3 pr-4 text-right">Title: </label>
+  <input type="text" name="title" id="tilte" class="col-sm-9" placeholder="UserTitle" ngModel />
+  <br/>
+  <label class="col-sm-3 pr-4 text-right">Description: </label>
+  <input type="text" name="description" id="description" class="col-sm-9" placeholder="UserDescription" ngModel />
+  <br/>
+  <div class="text-center">
+  <input type="submit" class="btn btn-primary" value="AddTeam"/>
+  </div>
+</form>
+</div>

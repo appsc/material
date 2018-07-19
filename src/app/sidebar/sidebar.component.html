@@ -1,0 +1,9 @@
+<section>
+  <div class="sidenav">
+    <ul>
+      <li *ngFor="let links of sidebarlinks">
+        <a routerLink="/{{links}}">{{links | uppercase}}</a>
+      </li>
+    </ul>
+  </div>
+</section>

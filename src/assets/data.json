@@ -1,0 +1,28 @@
+{
+    "teamMumbers":[
+    {
+        "name": "CH.Suribau",
+        "image": "../assets/images/suri.png",
+        "title": "UI Developer With Angular",
+        "description": "UI Developer With Angular UI Developer With Angular UI Developer With Angular UI Developer With Angular UI Developer With Angular UI Developer With Angular"
+    },
+    {
+        "name": "P.Ganta Rao",
+        "image": "../assets/images/suri.png",
+        "title": "Sitecore & .Net Developer",
+        "description": "Sitecore & .Net Developer"
+    },
+    {
+        "name": "V.V.N.V.Prasad",
+        "image": "../assets/images/suri.png",
+        "title": ".Net Developer",
+        "description": ".Net Developer"
+    },
+    {
+        "name": "ch.Ramesh",
+        "image": "../assets/images/suri.png",
+        "title": "PHP Developer",
+        "description": "PHP Developer"
+    }
+]
+}
