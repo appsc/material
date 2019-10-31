@@ -13,8 +13,11 @@
             //  let main_key;
             //  let sub_key;
             //materials display logic
-            let materials = $('<div class="col-md-3">' + data + '</div>')
-            $('#examList').append(materials);
+            $.each(data.group1.history.old-history, function (key, val) {
+                let materials = $('<div class="col-md-3">' + val.chapter1 + '</div>')
+                $('#examList').append(materials);
+
+            });
 
         });       
 

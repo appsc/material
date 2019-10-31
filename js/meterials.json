@@ -1,28 +1,28 @@
 {
-    "1":{
-        "1-2":{
-          "1-3":  [
+    "group1":{
+        "history":{
+          "old-history":  [
                 {
-                    "1-4": "abc",
-                    "1-4-2": "xyz"
+                    "chapter1": "abc",
+                    "chapter2": "xyz"
                 },
                 {
-                    "1-5":"asd",
-                    "1-5-2":"zxc"
+                    "chapter3":"asd",
+                    "chapter4":"zxc"
                 }
             ]
         }
     },
-"2": {
-      "2-2": {
-          "2-3": [
+"group2": {
+      "polity": {
+          "centeral-govt": [
                      {
-                        "2-4": "abc",
-                        "2-4-2": "xyz"
+                        "chapter1": "abc",
+                        "chapter2": "xyz"
                     },
                     {
-                        "2-5": "asd",
-                        "2-5-2": "zxc"
+                        "chapter3": "asd",
+                        "chapter4": "zxc"
                     }
                 ]
            }
