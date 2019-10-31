@@ -13,7 +13,7 @@
             //  let main_key;
             //  let sub_key;
             //materials display logic
-            let materials = $('<div class="col-md-3">' + data.key + '</div>')
+            let materials = $('<div class="col-md-3">' + data + '</div>')
             $('#examList').append(materials);
 
         });       
