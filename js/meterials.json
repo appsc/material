@@ -1,7 +1,7 @@
 {
     "group1":{
         "history":{
-          "old-history":  [
+          "oldhistory":  [
                 {
                     "chapter1": "abc",
                     "chapter2": "xyz"

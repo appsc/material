@@ -13,7 +13,7 @@
             //  let main_key;
             //  let sub_key;
             //materials display logic
-            $.each(data.group1.history.old-history, function (key, val) {
+            $.each(data.group1.history.oldhistory, function (key, val) {
                 let materials = $('<div class="col-md-3">' + val.chapter1 + '</div>')
                 $('#examList').append(materials);
 
