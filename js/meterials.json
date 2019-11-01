@@ -1,30 +1,240 @@
 {
-    "group1":{
-        "history":{
-          "oldhistory":  [
+    "exams":{
+        "group_1":
+            [
                 {
-                    "chapter1": "abc",
-                    "chapter2": "xyz"
+                    "subject_name":"History1",
+                    "key":"g1_history"
                 },
                 {
-                    "chapter3":"asd",
-                    "chapter4":"zxc"
+                    "subject_name": "Polity1",
+                    "key": "g1_polity"
+                }
+            ],
+        "group_2":[
+                {
+                    "subject_name": "History2",
+                    "key": "g2_history"
+                },
+                {
+                    "subject_name": "Polity2",
+                    "key": "g2_polity"
+                }
+            ],
+            "group_3": [
+                {
+                    "subject_name": "History3",
+                    "key": "g3_history"
+                },
+                {
+                    "subject_name": "Polity3",
+                    "key": "g3_polity"
+                }
+            ],
+        "group_4": [
+                {
+                    "subject_name": "History4",
+                    "key": "g4_history"
+                },
+                {
+                    "subject_name": "Polity4",
+                    "key": "g4_polity"
                 }
             ]
+        },
+
+"g1_history":{
+    "units": [
+        {
+            "chapter_title": "1",
+            "lesson_content":"somting..."
+        },
+        {
+            "chapter_title": "2",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "3",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "4",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "5",
+            "lesson_content": "somting..."
         }
-    },
-"group2": {
-      "polity": {
-          "centeral-govt": [
-                     {
-                        "chapter1": "abc",
-                        "chapter2": "xyz"
-                    },
-                    {
-                        "chapter3": "asd",
-                        "chapter4": "zxc"
-                    }
-                ]
-           }
-     }
+    ]
+},
+
+"g1_polity":{
+    "units": [
+        {
+            "chapter_title": "16",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "17",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "18",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "19",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "20",
+            "lesson_content": "somting..."
+        }
+    ]
+},
+"g2_history": {
+    "units": [
+        {
+            "chapter_title": "G2-1",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G2-2",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G2-3",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G2-4",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G2-5",
+            "lesson_content": "somting..."
+        }
+    ]
+},
+"g2_polity": {
+    "units": [
+        {
+            "chapter_title": "G2-16",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G2-17",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G2-18",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G2-19",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G2-20",
+            "lesson_content": "somting..."
+        }
+    ]
+},
+"g3_history": {
+    "units": [
+        {
+            "chapter_title": "G3-1",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G3-2",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G3-3",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G3-4",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G3-5",
+            "lesson_content": "somting..."
+        }
+    ]
+},
+"g3_polity": {
+    "units": [
+        {
+            "chapter_title": "G3-16",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G3-17",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G3-18",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G3-19",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G3-20",
+            "lesson_content": "somting..."
+        }
+    ]
+},
+"g4_history": {
+    "units": [
+        {
+            "chapter_title": "G4-1",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G4-2",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G4-3",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G4-4",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G4-5",
+            "lesson_content": "somting..."
+        }
+    ]
+},
+"g4_polity": {
+    "units": [
+        {
+            "chapter_title": "G4-16",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G4-17",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G4-18",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G4-19",
+            "lesson_content": "somting..."
+        },
+        {
+            "chapter_title": "G4-20",
+            "lesson_content": "somting..."
+        }
+    ]
 }
+
+    }    

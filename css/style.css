@@ -1,9 +1,49 @@
 @font-face {
-font-family: OpenSansLight;
-src: url(fonts/OpenSans-Light.ttf);
-}
-@font-face {
-font-family: OpenSansRegular;
-src: url(fonts/OpenSans-Regular.ttf);
+    font-family: OpenSansLight;
+    src: url(fonts/OpenSans-Light.ttf);
 }
 
+@font-face {
+    font-family: OpenSansRegular;
+    src: url(fonts/OpenSans-Regular.ttf{);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover,
+a:active {
+    text-decoration: none;
+    color: #544eb3;
+
+}
+
+.examlist {
+    display: flex;
+}
+
+.examname {
+    background: #f8f9fa;
+    padding: 1rem;
+    border: 5px solid #fff;
+    text-transform: capitalize;
+}
+
+.exam-pills-content .nav-pills .nav-link.active,
+.exam-pills-content .nav-pills .show>.nav-link {
+    color: #212529 !important;
+    background-color: #f8f9fa !important;
+}
+
+.exam-pills-content .nav-pills .nav-link {
+    border-radius: 0;
+}
+
+.dis-none{
+    display: none;
+}
+.dis-block{
+    display: block;
+}
