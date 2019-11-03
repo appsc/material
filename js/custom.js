@@ -60,7 +60,7 @@
                         for (let items in v.units) {
 
                             //console.log(v.units[items].chapter_title);
-                            let lesson_detais = $('<div id="' + curSubj + '" class="subj-content ' + curSubj + ' dis-none"><h3>' + v.units[items].chapter_title + '</h3><br/><div>' + v.units[items].lesson_content + '</div></div>');
+                            let lesson_detais = $('<div id="'+curSubj+'" class="subj-content ' + curSubj + ' dis-none"><h3>' + v.units[items].chapter_title + '</h3><br/><div>' + v.units[items].lesson_content + '</div></div>');
                             $('.display_lesson').append(lesson_detais)
                         }
 
