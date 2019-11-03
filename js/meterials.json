@@ -1,46 +1,130 @@
 {
     "exams":{
-        "group_1":
+        "గ్రూప్‌_I":
             [
                 {
-                    "subject_name":"History1",
+                    "subject_name":"చరిత్ర, సంస్కృతి",
                     "key":"g1_history"
                 },
                 {
-                    "subject_name": "Polity1",
+                    "subject_name": "రాజ్యాంగం, పాలిటీ, సామాజిక న్యాయం, అంతర్జాతీయ సంబంధాలు",
                     "key": "g1_polity"
+                },
+                {
+                    "subject_name": "భూగోళశాస్త్రం",
+                    "key": "g1_geography"
+                },
+                {
+                    "subject_name": "భారతదేశ, ఆంధ్రప్రదేశ్‌ ఆర్థిక వ్యవస్థ, ప్రణాళికలు",
+                    "key": "g1_economy"
+                },
+                {
+                    "subject_name": "జనరల్‌ మెంటల్‌ ఎబిలిటీ, మానసిక సామర్థ్యాలు",
+                    "key": "g1_metalibilty"
+                },
+                {
+                    "subject_name": "శాస్త్ర, సాంకేతిక రంగాలు",
+                    "key": "g1_science"
+                },
+                {
+                    "subject_name": "కరెంట్ అఫైర్స్",
+                    "key": "g1_Current Affairs"
                 }
             ],
-        "group_2":[
+        "గ్రూప్‌_II":
+        [
+            {
+                "subject_name": "జనరల్‌ మెంటల్‌ ఎబిలిటీ, మానసిక సామర్థ్యాలు",
+                "key": "g2_metalibilty"
+            },
+            {
+                "subject_name": "శాస్త్ర, సాంకేతిక రంగాలు",
+                "key": "g2_science"
+            },
+            {
+                "subject_name": "కరెంట్ అఫైర్స్",
+                "key": "g2_Current Affairs"
+            },
+        {
+            "subject_name": "చరిత్ర, సంస్కృతి",
+            "key": "g2_history"
+        },
+        {
+            "subject_name": "రాజ్యాంగం, పాలిటీ, సామాజిక న్యాయం, అంతర్జాతీయ సంబంధాలు",
+            "key": "g2_polity"
+        },
+        {
+            "subject_name": "భూగోళశాస్త్రం",
+            "key": "g2_geography"
+        },
+        {
+            "subject_name": "భారతదేశ, ఆంధ్రప్రదేశ్‌ ఆర్థిక వ్యవస్థ, ప్రణాళికలు",
+            "key": "g2_economy"
+        }
+    ],
+            "గ్రూప్‌-III": 
+            [
                 {
-                    "subject_name": "History2",
+                    "subject_name": "చరిత్ర, సంస్కృతి",
                     "key": "g2_history"
                 },
                 {
-                    "subject_name": "Polity2",
+                    "subject_name": "రాజ్యాంగం, పాలిటీ, సామాజిక న్యాయం, అంతర్జాతీయ సంబంధాలు",
                     "key": "g2_polity"
-                }
-            ],
-            "group_3": [
-                {
-                    "subject_name": "History3",
-                    "key": "g3_history"
                 },
                 {
-                    "subject_name": "Polity3",
-                    "key": "g3_polity"
-                }
-            ],
-        "group_4": [
-                {
-                    "subject_name": "History4",
-                    "key": "g4_history"
+                    "subject_name": "భూగోళశాస్త్రం",
+                    "key": "g2_geography"
                 },
                 {
-                    "subject_name": "Polity4",
-                    "key": "g4_polity"
+                    "subject_name": "భారతదేశ, ఆంధ్రప్రదేశ్‌ ఆర్థిక వ్యవస్థ, ప్రణాళికలు",
+                    "key": "g2_economy"
+                },
+                {
+                    "subject_name": "జనరల్‌ మెంటల్‌ ఎబిలిటీ, మానసిక సామర్థ్యాలు",
+                    "key": "g2_metalibilty"
+                },
+                {
+                    "subject_name": "శాస్త్ర, సాంకేతిక రంగాలు",
+                    "key": "g2_science"
+                },
+                {
+                    "subject_name": "కరెంట్ అఫైర్స్",
+                    "key": "g2_Current Affairs"
                 }
-            ]
+            ],
+        "గ్రూప్‌-IV": 
+        [
+            {
+                "subject_name": "చరిత్ర, సంస్కృతి",
+                "key": "g2_history"
+            },
+            {
+                "subject_name": "రాజ్యాంగం, పాలిటీ, సామాజిక న్యాయం, అంతర్జాతీయ సంబంధాలు",
+                "key": "g2_polity"
+            },
+            {
+                "subject_name": "శాస్త్ర, సాంకేతిక రంగాలు",
+                "key": "g2_science"
+            },
+            {
+                "subject_name": "కరెంట్ అఫైర్స్",
+                "key": "g2_Current Affairs"
+            },
+            {
+                "subject_name": "భూగోళశాస్త్రం",
+                "key": "g2_geography"
+            },
+            {
+                "subject_name": "భారతదేశ, ఆంధ్రప్రదేశ్‌ ఆర్థిక వ్యవస్థ, ప్రణాళికలు",
+                "key": "g2_economy"
+            },
+            {
+                "subject_name": "జనరల్‌ మెంటల్‌ ఎబిలిటీ, మానసిక సామర్థ్యాలు",
+                "key": "g2_metalibilty"
+            }
+            
+        ]
         },
 
 "g1_history":{

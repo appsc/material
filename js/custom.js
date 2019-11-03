@@ -34,7 +34,7 @@
                             '</div>' +
                             '</div>');
                         $('#exam-content').append(materials);
-                        $('.group_1').addClass('active');
+                            $('.గ్రూప్‌_I').addClass('active');
 
                     }
 
