@@ -130,24 +130,8 @@
 "g1_history":{
     "units": [
         {
-            "chapter_title": "1",
-            "lesson_content":"somting..."
-        },
-        {
-            "chapter_title": "2",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "3",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "4",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "5",
-            "lesson_content": "somting..."
+            "chapter_title": "ఆంధ్రప్రదేశ్ చరిత్ర",
+            "lesson_content":"demo_test.txt"
         }
     ]
 },
@@ -155,170 +139,55 @@
 "g1_polity":{
     "units": [
         {
-            "chapter_title": "16",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "17",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "18",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "19",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "20",
-            "lesson_content": "somting..."
+            "chapter_title": "Coming Soon",
+            "lesson_content": "త్వరలో"
         }
     ]
 },
 "g2_history": {
     "units": [
         {
-            "chapter_title": "G2-1",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G2-2",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G2-3",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G2-4",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G2-5",
-            "lesson_content": "somting..."
+            "chapter_title": "ఆంధ్రప్రదేశ్ చరిత్ర",
+            "lesson_content": "demo_test.txt"
         }
     ]
 },
 "g2_polity": {
     "units": [
         {
-            "chapter_title": "G2-16",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G2-17",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G2-18",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G2-19",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G2-20",
-            "lesson_content": "somting..."
-        }
-    ]
+            "chapter_title": "Coming Soon",
+            "lesson_content": "త్వరలో"
+        }    ]
 },
 "g3_history": {
     "units": [
         {
-            "chapter_title": "G3-1",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G3-2",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G3-3",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G3-4",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G3-5",
-            "lesson_content": "somting..."
+            "chapter_title": "ఆంధ్రప్రదేశ్ చరిత్ర",
+            "lesson_content": "demo_test.txt"
         }
     ]
 },
 "g3_polity": {
     "units": [
         {
-            "chapter_title": "G3-16",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G3-17",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G3-18",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G3-19",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G3-20",
-            "lesson_content": "somting..."
-        }
-    ]
+            "chapter_title": "Coming Soon",
+            "lesson_content": "త్వరలో"
+        }    ]
 },
 "g4_history": {
     "units": [
         {
-            "chapter_title": "G4-1",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G4-2",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G4-3",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G4-4",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G4-5",
-            "lesson_content": "somting..."
+            "chapter_title": "ఆంధ్రప్రదేశ్ చరిత్ర",
+            "lesson_content": "demo_test.txt"
         }
     ]
 },
 "g4_polity": {
     "units": [
         {
-            "chapter_title": "G4-16",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G4-17",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G4-18",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G4-19",
-            "lesson_content": "somting..."
-        },
-        {
-            "chapter_title": "G4-20",
-            "lesson_content": "somting..."
-        }
-    ]
+            "chapter_title": "Coming Soon",
+            "lesson_content": "త్వరలో"
+        }    ]
 }
 
     }    

@@ -58,9 +58,17 @@
                     subject_k = k;
                     if (curSubj == subject_k) {
                         for (let items in v.units) {
-
+                            let result;
+                            $.ajax({
+                                url: v.units[items].lesson_content, success: function (result) {
+                                    $(".div1").html(result);
+                                    //resultLess = result;
+                                }
+                            });
                             //console.log(v.units[items].chapter_title);
-                            let lesson_detais = $('<div id="'+curSubj+'" class="subj-content ' + curSubj + ' dis-none"><h3>' + v.units[items].chapter_title + '</h3><br/><div>' + v.units[items].lesson_content + '</div></div>');
+                            let lesson_detais = $('<div id="' + curSubj + '" class="subj-content ' + curSubj + ' dis-none"><h3>' + v.units[items].chapter_title + '</h3><br/><div class="div1"></div></div>');
+                            //<br/><div>' + v.units[items].lesson_content +'</div>
+
                             $('.display_lesson').append(lesson_detais)
                         }
 
